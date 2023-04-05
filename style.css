@@ -1,0 +1,28 @@
+.glow{
+    text-transform: uppercase;
+    color: chocolate;
+    font-size: 20px;
+    background-color: darkgray;
+}
+.mor{
+    text-transform: uppercase;
+    color: cornflowerblue;
+    font-size: 10px;
+    background-color: cadetblue;
+}
+.sab{
+    text-transform: uppercase;
+    color: ghostwhite;
+    font-size: 15px;
+    background-color: gold;
+}
+.sabby{
+    color: beige;
+    background-color: chocolate;
+    font-size: 15px;
+}
+.oise{
+    background-color: darkturquoise;
+    color: black;
+    font-size: 18px;
+}
